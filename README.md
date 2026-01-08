@@ -44,6 +44,16 @@ El proyecto está pensado para trabajar con un **frontend en HTML, CSS y JavaScr
 
 ---
 
+## 🗄️ Base de Datos
+
+La aplicación utiliza una base de datos MySQL con una tabla principal para la gestión de usuarios.
+Las operaciones CRUD se realizan a través del backend mediante consultas SQL.
+
+## 🚧 Estado del Proyecto
+
+🟡 En desarrollo — actualmente en fase de planificación y configuración del entorno.
+
+
 ## 📂 Estructura del Proyecto
 
 ```text
